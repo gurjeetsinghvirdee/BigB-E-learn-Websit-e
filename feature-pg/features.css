@@ -28,6 +28,7 @@ body {
 }
 
 
+
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -595,8 +596,6 @@ main .blog-post .blog-content:hover
 main .blog-content .blog-title {
   padding: 2rem 0;
 }
-
-
 
 main .blog-content .btn-blog {
   padding: 0.7rem 2rem;
